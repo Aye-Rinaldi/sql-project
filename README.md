@@ -18,3 +18,7 @@ This project consists of designing a simple database for a fictional company.
 ## File
 
 - practica.sql
+
+## Description
+
+This script creates schemas, tables, roles, and permissions for a simple database structure.
